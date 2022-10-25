@@ -1,5 +1,6 @@
 # Weather-App
 This is a python app that can show the current weather of a particular city. It uses Tkinter module for the GUI and openweather API for fetching the actual weather data.
+The App can show data like weather condition, termperature, humidity, windspeed and direction, sunrise and sunset time, etc.
 
 
 1. Download the python file or clone the github repository or copy the code onto a python file
