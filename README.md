@@ -4,5 +4,4 @@ This is a python app that can show the current weather of a particular city. It 
 
 1. Download the python file or clone the github repository or copy the code onto a python file
 2. Open the terminal/cmd prompt in the folder which contains the python file
-3. for Windows and Linus run the following command - *python Weather.py*
-   for MacOS run the following command - *python3 Weather.py*  
+3. For Windows and Linus, run the following command - *python Weather.py* and for MacOS, run the following command - *python3 Weather.py*  
